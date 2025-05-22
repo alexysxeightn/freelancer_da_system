@@ -37,7 +37,7 @@ python -m unittest tests.test_core -v
 ```
 freelancer_da_system/
 ├── __init__.py
-├── freelancer_earnings_bd.csv   # База данных
+├── freelancer_earnings_bd.csv   # Данные для базы данных
 ├── .env                         # Ключ OpenAI API
 ├── requirements.txt             # Зависимости
 ├── README.md                    # Документация
