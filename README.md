@@ -2,6 +2,8 @@
 
 Система, которая анализирует статистические данные о доходах фрилансеров [(Freelancer Earnings & Job Trends)](https://www.kaggle.com/datasets/shohinurpervezshohan/freelancer-earnings-and-job-trends?select=freelancer_earnings_bd.csv) и предоставляет ответы на запросы, сформулированные на естественном языке
 
+![Снимок экрана 2025-05-22 160801](https://github.com/user-attachments/assets/320154d4-7acc-4301-80f3-448793f2f844)
+
 ## Установка и запуск
 
 1. Склонируйте репозиторий
